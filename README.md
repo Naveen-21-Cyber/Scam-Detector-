@@ -1,5 +1,6 @@
 # Scam Detector V 1.1.0
-This Tool Named As **Scam Detector V 1.1.0** Where it helps you to Identify the Phishing Emails, 
+This Tool Named As **Scam Detector V 1.1.0** 
+Where it helps you to Identify the Phishing Emails, 
 It covers 70% of Scams, Which is Helpful for Current Scams.It can make a Big Difference in your Daily Life Phishing Emails.
 Use this tool for totally free.
 Let's Unite and Build Helping Cybersecurity Project's for the World 
