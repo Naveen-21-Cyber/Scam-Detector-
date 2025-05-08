@@ -67,6 +67,9 @@ __**It Covers the Concept's of Scam_types:**__
   - Torrent/IP Fraud Allegations
   - Law Enforcement Extortion Threats
 
+
+
+
 ![image](https://github.com/user-attachments/assets/983c00ad-2127-4845-9eb6-060c7bf7d55f)
 ![image](https://github.com/user-attachments/assets/766ce625-2c64-40ab-bd6b-509e8f67bf80)
 ![image](https://github.com/user-attachments/assets/2155ef82-2306-4572-9180-7f1a01a1b8e5)
